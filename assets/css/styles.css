@@ -10,3 +10,12 @@
   }
   
 
+#experiencia{
+
+    background-image: url("../img/bg-experiencia-3.jpg" );
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    background-position: right;
+    
+
+}
